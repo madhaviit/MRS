@@ -1,0 +1,1001 @@
+unique_id,rating,pid,album_name,track_name,artist_name,Genre,cluster,cluster_label
+1,3,0,The Cookbook,Lose Control (feat. Ciara & Fat Man Scoop),missy elliott,Hip hop,7,15
+2,4,0,In The Zone,Toxic,britney spears,Pop,2,16
+3,1,0,Dangerously In Love (Alben für die Ewigkeit),Crazy In Love,beyoncé,,8,5
+4,2,0,Justified,Rock Your Body,justin timberlake,Pop,7,5
+5,1,0,Hot Shot,It Wasn't Me,shaggy,Reggae,3,7
+6,3,0,Confessions,Yeah!,usher,R&B,3,16
+7,4,0,Confessions,My Boo,usher,R&B,3,16
+8,4,0,PCD,Buttons,the pussycat dolls,Pop,3,16
+9,2,0,The Writing's On The Wall,Say My Name,destiny's child,R&B,2,7
+10,4,0,Speakerboxxx/The Love Below,Hey Ya! - Radio Mix / Club Mix,outkast,Hip hop,7,15
+11,3,0,Loose,Promiscuous,nelly furtado,Pop,7,15
+12,4,0,Right Where You Want Me,Right Where You Want Me - Radio Edit Version,jesse mccartney,Pop,7,15
+13,4,0,Beautiful Soul,Beautiful Soul,jesse mccartney,Pop,7,15
+14,4,0,Departure - Recharged,Leavin',jesse mccartney,Pop,7,15
+15,3,0,Cassie,Me & U,cassie,R&B,2,16
+16,2,0,21,Ice Box,omarion,R&B,7,5
+17,4,0,Let Go,Sk8er Boi,avril lavigne,Pop punk,2,16
+18,2,0,Chris Brown,Run It!,chris brown,R&B,2,7
+19,2,0,B'Day,Check On It - feat. Bun B and Slim Thug,beyoncé,,8,5
+20,1,0,The Writing's On The Wall,"Jumpin', Jumpin'",destiny's child,R&B,2,7
+21,1,0,C'Mon C'Mon,Soak Up The Sun,sheryl crow,Rock,3,7
+22,3,0,Elephunk,Where Is The Love?,the black eyed peas,Hip hop,3,16
+23,2,0,I've Never Done Anything Like This,Stacy's Mom,bowling for soup,Pop punk,2,7
+24,1,0,Greetings From Imrie House,Just The Girl,the click five,Pop rock,3,7
+25,3,0,Chris Brown,Yo (Excuse Me Miss),chris brown,R&B,2,16
+26,3,0,Jonas Brothers,Year 3000,jonas brothers,Pop rock,7,15
+27,2,0,Lip Gloss,Lip Gloss,lil mama,Hip hop,7,5
+28,4,0,Everytime We Touch,Everytime We Touch - Radio Edit,cascada,Eurodance,2,16
+29,1,0,Jason Derulo,Whatcha Say,jason derulo,Pop,7,5
+30,1,0,Year Of The Gentleman,Miss Independent,ne-yo,R&B,7,5
+31,4,0,The Time Of Our Lives,Party In The U.S.A.,miley cyrus,Pop,7,15
+32,4,0,Boys Like Girls,The Great Escape,boys like girls,Pop rock,2,16
+33,3,0,Replay,Replay,iyaz,R&B,7,15
+34,2,0,Exclusive - The Forever Edition,Forever,chris brown,R&B,2,7
+35,1,0,Animal,Your Love Is My Drug,kesha,Pop,7,5
+36,3,0,Year Of The Gentleman,Closer,ne-yo,R&B,7,15
+37,3,0,My World,One Less Lonely Girl,justin bieber,Pop,7,15
+38,1,0,Kala,Paper Planes,m.i.a.,Alternative hip hop,7,5
+39,1,0,Hot Fuss,Mr. Brightside,the killers,Indie rock,3,7
+40,1,0,Enema Of The State,All The Small Things,blink-182,Pop punk,2,7
+41,4,0,PCD,Beep,the pussycat dolls,Pop,3,16
+42,4,0,My Worlds,Somebody To Love,justin bieber,Pop,7,15
+43,4,0,Move Along,Dirty Little Secret,the all-american rejects,Pop rock,3,16
+44,1,0,My Worlds,Baby,justin bieber,Pop,7,5
+45,1,0,Be Not Nobody,A Thousand Miles,vanessa carlton,Pop,3,7
+46,3,0,Red Road,Livin on Sunday,cris cab,Pop,2,16
+47,2,0,See You Again,See You Again,miley cyrus,Pop,7,5
+48,5,0,Departure - Recharged,How Do You Sleep? - Featuring Ludacris,jesse mccartney,Pop,7,15
+49,3,0,Camp Rock Original Soundtrack,This Is Me,demi lovato,Pop,2,16
+50,2,0,Under My Skin,My Happy Ending,avril lavigne,Pop punk,2,7
+51,1,0,We The Kings,Check Yes Juliet,we the kings,Pop rock,3,7
+52,2,1,Eye Of The Tiger,Eye of the Tiger,survivor,Rock,3,7
+53,3,1,Versus Hollywood,Libera Me From Hell (Tengen Toppa Gurren Lagann),daniel tidwell,Heavy metal,2,16
+54,2,1,Versus Hollywood,Pokémon Theme,daniel tidwell,Heavy metal,2,7
+55,1,1,Versus Hollywood,Concerning Hobbits (The Lord of the Rings),daniel tidwell,Heavy metal,2,7
+56,2,1,Versus Hollywood,The Blood of Cuchulainn (The Boondock Saints),daniel tidwell,Heavy metal,2,7
+57,2,1,Versus Hollywood,He's a Pirate (Pirates of the Caribbean),daniel tidwell,Heavy metal,2,7
+58,4,1,Versus Video Games,Very Bloody Tears (Castlevania II: Simon's Quest),daniel tidwell,Heavy metal,2,16
+59,1,1,"Video Game Remixes, Vol. 1",U.N. Owen Was Her? (Remix),kaleptik,Electronic,7,5
+60,4,1,Doctor Who: Series 6 (Original Television Soundtrack),I am the Doctor in Utah,ben foster,Soundtrack,2,16
+61,3,1,Hamilton,The Room Where It Happens,leslie odom jr.,R&B,7,15
+62,4,1,Hamilton,Right Hand Man,christopher jackson,R&B,2,16
+63,2,1,Hamilton,Alexander Hamilton,leslie odom jr.,R&B,7,5
+64,1,1,Hamilton,My Shot,lin-manuel miranda,Broadway,7,5
+65,1,1,Led Zeppelin IV,Stairway To Heaven,led zeppelin,Rock,7,5
+66,3,1,"Hints, Allegations & Things Left Unsaid",Shine,collective soul,Alternative rock,2,16
+67,1,1,Once,Ghost Love Score,nightwish,Symphonic metal,7,5
+68,3,1,Best 1991 - 2004,Crazy,seal,Soul,3,16
+69,3,1,Beggars Banquet,Sympathy For The Devil,the rolling stones,Rock,3,16
+70,2,1,Let It Bleed,Gimme Shelter,the rolling stones,Rock,3,7
+71,3,1,Pronounced' Leh-'Nerd 'Skin-'Nerd,Free Bird,lynyrd skynyrd,Southern rock,7,15
+72,2,1,Boston,Peace of Mind,boston,Rock,2,7
+73,2,1,Boston,Foreplay / Long Time,boston,Rock,2,7
+74,3,1,Toto,Hold the Line,toto, Rock,3,16
+75,2,1,Leftoverture,Carry on Wayward Son,kansas, Rock,7,5
+76,4,1,A Night At The Opera,Bohemian Rhapsody - Remastered 2011,queen, Rock,3,16
+77,1,1,Second Helping,Sweet Home Alabama,lynyrd skynyrd,Southern rock,7,5
+78,1,1,Boston,More Than a Feeling,boston,Rock,2,7
+79,2,1,Physical Graffiti,Kashmir,led zeppelin,Rock,7,5
+80,4,1,Doctor Who: Series 6 (Original Television Soundtrack),The Majestic Tale (Of A Madman In A Box),ben foster,Soundtrack,2,16
+81,1,1,Appetite For Destruction,Sweet Child O' Mine,guns n' roses, Rock,7,5
+82,1,1,Willy And The Poor Boys,Fortunate Son,creedence clearwater revival,Rock,2,7
+83,3,1,Love At First Sting,Rock You Like A Hurricane,scorpions,Rock,3,16
+84,4,1,Moving Pictures,Tom Sawyer,rush, Rock,3,16
+85,4,1,Moving Pictures,Red Barchetta,rush, Rock,3,16
+86,4,1,Moving Pictures,YYZ,rush, Rock,3,16
+87,5,1,Moving Pictures,Limelight,rush, Rock,3,16
+88,5,1,Moving Pictures,The Camera Eye,rush, Rock,3,16
+89,5,1,Moving Pictures,Witch Hunt,rush, Rock,3,16
+90,5,1,Moving Pictures,Vital Signs,rush, Rock,3,16
+91,1,2,On And On,Like You,hoody, K-pop,1,7
+92,3,2,GOOD (feat. ELO),GOOD (feat. ELO),loco, K-pop,1,16
+93,1,2,Inferiority Complex (feat. Eunha),Inferiority Complex (feat. Eunha),park kyung, K-pop,5,5
+94,3,2,Ordinary Love (Feat.Park Boram),Ordinary Love,park kyung, K-pop,5,1
+95,5,2,You Never Walk Alone,Spring Day,bts, K-pop,8,15
+96,2,2,Lovelyz8,Ah-Choo,lovelyz, K-pop,5,5
+97,4,2,SEOULITE,BREATHE,lee hi, K-pop,1,16
+98,3,2,SEOULITE,FXXK WIT US,lee hi, K-pop,1,16
+99,3,2,U&I,I Will Show You,ailee, K-pop,8,15
+100,3,2,Take Me,Take Me,miso, K-pop,5,1
+101,2,2,꺼내 먹어요 (Eat) - Single,꺼내 먹어요 (Eat),zion.t, K-pop,0,7
+102,1,2,No Make Up - Single,No Make Up,zion.t, K-pop,0,7
+103,2,2,"K.A.R.D Project Vol.1 ""Oh NaNa""",Oh NaNa (Hidden. HUR YOUNG JI),kard, K-pop,1,7
+104,4,2,"K.A.R.D Project Vol.2 ""Don't Recall""",Don't Recall,kard, K-pop,1,16
+105,2,2,양화대교 (Yanghwa Brdg) - Single,양화대교 (Yanghwa Brdg),zion.t, K-pop,0,7
+106,2,2,Some,Some (feat.Geeks Lil Boi),soyou & junggigo, K-pop,0,7
+107,3,2,Everything You Wanted,Me Like Yuh,jay park, K-pop,1,16
+108,3,2,Everything You Wanted,사실은 The Truth Is,jay park, K-pop,1,16
+109,1,2,Everything You Wanted,Solo (feat. Hoody),jay park, K-pop,1,7
+110,4,2,Boys And Girls,Boys and Girls (feat. Babylon),zico, K-pop,0,16
+111,4,2,Guardian (Original Television Soundtrack) Part 9,I will go to you like the first snow,ailee, K-pop,8,15
+112,4,2,First Love,Rose,lee hi, K-pop,1,16
+113,3,2,Everything You Wanted,Aquaman,jay park, K-pop,1,16
+114,5,2,Skool Luv Affair,Just One Day,bts, K-pop,8,15
+115,1,2,SQUARE ONE,WHISTLE - KR Ver.,blackpink, K-pop,8,5
+116,3,2,The Manual,The Manual,eddy kim, K-pop,1,16
+117,3,2,Heartstrings OST Part.1,Heartstrings,jung yong hwa, K-pop,1,16
+118,2,2,Korea OST Top Hits 2014,See My Eyes (Heartstring OST),jung yong hwa, K-pop,1,7
+119,2,2,Can't Stop,Can't Stop,cnblue, K-pop,8,5
+120,4,2,BLUEMING,You're So Fine,cnblue, K-pop,8,15
+121,4,2,Everything You Wanted,Drive (feat. Gray),jay park, K-pop,1,16
+122,4,2,Pink LUV + Blossom,Mr. Chu,apink, K-pop,8,15
+123,2,2,APINK BEAST ALBUM,NoNoNo,apink, K-pop,8,5
+124,2,2,Dream,Dream,suzy, K-pop,0,7
+125,2,2,우리 옆집에 EXO가 산다 (EXO NEXT DOOR) OST,두근거려 (Beautiful),baekhyun, K-pop,8,5
+126,3,2,Uncontrollably Fond OST Part.1,Ring My Bell,suzy, K-pop,0,16
+127,4,2,"HWARANG, Pt. 2 (Music from the Original TV Series)",It's Definitely You,v, K-pop,0,16
+128,2,2,MADE,LAST DANCE,bigbang, K-pop,8,5
+129,1,2,MADE,FXXK IT,bigbang, K-pop,8,5
+130,2,2,On And On,Your Eyes (feat. Jay Park),hoody, K-pop,1,7
+131,4,2,As If It's Your Last,As If It's Your Last,blackpink, K-pop,8,15
+132,1,2,KWON JI YONG,"Untitled, 2014 - KR Ver.",g-dragon, K-pop,1,7
+133,3,2,KWON JI YONG,OUTRO: Divina Commedia - KR Ver.,g-dragon, K-pop,1,16
+134,3,2,RISE,"EYES, NOSE, LIPS - KR Ver.",sol, K-pop,5,1
+135,1,2,Solar,Wedding Dress,taeyang, K-pop,0,7
+136,3,2,Play,200%,akdong musician, K-pop,8,15
+137,1,2,SQUARE TWO,STAY - KR Ver.,blackpink, K-pop,8,5
+138,4,2,Wings,21st Century Girl,bts, K-pop,8,15
+139,1,2,THE WAR - The 4th Album,전야 前夜 The Eve,exo, K-pop,1,7
+140,3,2,KARD 1st Mini Album 'Hola Hola',Hola Hola,kard, K-pop,1,16
+141,1,2,A+,Roll Deep,hyuna, K-pop,1,7
+142,4,2,SUMMER EPISODE,DINOSAUR,akdong musician, K-pop,8,15
+143,4,2,THE WAR - The 4th Album,Ko Ko Bop,exo, K-pop,1,16
+144,1,2,JUNG YONG HWA 1ST MINI ALBUM DO DISTURB,That Girl (Feat. Loco),jung yong hwa, K-pop,1,7
+145,4,2,Yacht (K) [feat. Sik-K],Yacht (K) [feat. Sik-K],jay park, K-pop,1,16
+146,5,2,The Most Beautiful Moment in Life Pt.1,Hold Me Tight,bts, K-pop,8,15
+147,4,2,Cliché,Cliché,jenyer, K-pop,1,16
+148,3,2,THE WAR - The 4th Album,What U do?,exo, K-pop,1,16
+149,1,2,Anck Su Namum,Anck Su Namum,yezi, K-pop,0,7
+150,1,2,Call You Bae,Call You Bae,jimin (aoa), K-pop,1,7
+151,5,2,Love Yourself 承 'Her',Intro: Serendipity,bts, K-pop,8,15
+152,4,2,Love Yourself 承 'Her',DNA,bts, K-pop,8,15
+153,5,2,Love Yourself 承 'Her',dimple,bts, K-pop,8,15
+154,4,2,Love Yourself 承 'Her',MIC Drop,bts, K-pop,8,15
+155,2,3,French Festival,Danse macabre,camille saint-saëns,,8,5
+156,2,3,"Grieg, Saint-Saëns: Piano Concertos","Piano concerto No. 2 in G Minor, Op. 22: Piano concerto No. 2 in G Minor, Op. 22: II. Allegro scherzando",camille saint-saëns,,8,5
+157,1,3,Summer Break Mixtape,Dræm Girl,no vacation, Indie pop,5,5
+158,3,3,Summer Break Mixtape,Sad Valentine,no vacation, Indie pop,5,1
+159,1,3,You Say I'm in Love,You Say I'm in Love,banes world, Indie rock,8,5
+160,4,3,Drowsy,Drowsy,banes world, Indie rock,8,15
+161,3,3,Ugly Cherries,Serving Goffman,pwr bttm, Punk,3,1
+162,2,3,Songs From The Big Chair,Sea Song,tears for fears, New wave,0,7
+163,2,3,Only No One,Fortune Only,natureboy, Indie pop,5,1
+164,2,3,Looking out for You,Looking out for You,joy again, Indie pop,1,7
+165,4,3,Joy Again - EP,Necromancer,joy again, Indie pop,1,16
+166,3,3,Joy Again - EP,Mistakes,joy again, Indie pop,1,16
+167,3,3,Virgo's Maze,Strangest Eyes,part time, Indie pop,5,1
+168,2,3,Virgo's Maze,It's Elizabeth,part time, Indie pop,5,1
+169,1,3,Virgo's Maze,Pussy of my Dreams,part time, Indie pop,5,5
+170,3,3,What Would You Say?,19,part time, Indie pop,5,1
+171,2,3,6 Feet Beneath The Moon,Neptune Estate,king krule, Indie rock,1,7
+172,1,3,Blue Planet Eyes,Somebody's Talking,the preatures, Indie pop,0,7
+173,1,3,Is the Is Are,Bent (Roi's Song),diiv, Shoegaze,2,7
+174,1,3,Die Alone,Just Get High,gazebos, Indie pop,1,7
+175,4,3,Lost Time,I Love Seattle,tacocat, Indie pop,0,16
+176,4,3,Army Navy,Dark as Days,army navy, Indie pop,8,15
+177,3,3,Arrows,End It Now!,the lonely forest,Indie rock,3,1
+178,4,3,Calling The World,When Did Your Heart Go Missing?,rooney, Indie rock,5,6
+179,3,3,Intimacy,Signs,bloc party, Indie rock,8,15
+180,4,3,Ivy Tripp,Under A Rock,waxahatchee, Indie folk,0,16
+181,3,3,Veckatimest,Two Weeks,grizzly bear, Indie rock,1,16
+182,1,3,Shields,Yet Again,grizzly bear, Indie rock,1,7
+183,4,3,Vampire Weekend,Campus,vampire weekend, Indie pop,0,16
+184,2,3,Our House on the Hill,Mess Me Around,the babies, Indie pop,0,7
+185,3,3,Drug For The Modern Age,Talk To Me,kopecky, Indie pop,1,16
+186,3,3,Nothing But Thieves,Trip Switch,nothing but thieves, Indie rock,5,1
+187,4,3,Heart It Races,Heart It Races - Dr Dog Version,dr. dog, Indie rock,1,16
+188,3,3,The Waterfall,Big Decisions,my morning jacket, Indie rock,5,1
+189,1,3,Don't You,It's All in Vain,wet, Indie pop,0,7
+190,2,3,Don't You,Deadwater,wet, Indie pop,0,7
+191,4,3,C U Girl,C U Girl,steve lacy, R&B,3,16
+192,1,3,ALL-AMERICAN TRASH,HOME,brockhampton, Hip hop,8,5
+193,2,3,ALL-AMERICAN TRASH,CONTACTS,brockhampton, Hip hop,8,5
+194,1,3,Can't Come Down,Can't Come Down,a.dd+,Hip hop,2,7
+195,2,3,Luv,Luv,antwon, Hip hop,8,5
+196,3,3,Dying in the Pussy,Life Is What You Make It,antwon, Hip hop,8,15
+197,4,3,Red Teenage Melody,Contraband,night lovell, Hip hop,5,6
+198,4,3,Pale Machine,Miss You,bo en, Electronic,9,15
+199,2,3,Pale Machine Expansion Pack Singles,Money Won't Pay,bo en, Electronic,9,5
+200,4,3,Pale Machine Expansion Pack Singles,I'll Fall,bo en, Electronic,9,15
+201,4,3,I.,Nothing's Gonna Hurt You Baby,cigarettes after sex, Dream pop,9,15
+202,4,3,Affection,Affection,cigarettes after sex, Dream pop,9,15
+203,2,3,It's All In Your Head,I Like You,dandelion hands, Lo-fi,8,5
+204,3,3,Naked All the Time,Strange to Hear,sports, Indie pop,0,16
+205,4,3,Listen,Sweet Emotion,the kooks, Indie rock,0,16
+206,2,3,A Promise,Pink City,xiu xiu, Experimental,0,7
+207,4,3,Live A Little Love A Lot,First Balloon To Nice,moose, Shoegaze,7,15
+208,5,3,Live A Little Love A Lot,Rubdown,moose, Shoegaze,7,6
+209,4,3,Live A Little Love A Lot,So Much Love So Little Time,moose, Shoegaze,7,15
+210,4,3,Live A Little Love A Lot,Last Of The Good Old Days,moose, Shoegaze,7,15
+211,4,3,. . . XYZ,Screaming,moose, Shoegaze,7,15
+212,4,3,Descended Like Vultures,Love's Lost Guarantee,rogue wave, Indie rock,5,6
+213,4,3,10:1,10:1,rogue wave, Indie rock,5,6
+214,4,3,10:1,Crush The Camera,rogue wave, Indie rock,5,6
+215,5,3,Out of the Shadow,Every Moment,rogue wave, Indie rock,5,6
+216,4,3,Out of the Shadow,Endgame,rogue wave, Indie rock,5,6
+217,4,3,Pinkerton,El Scorcho,weezer, Alternative rock,6,6
+218,4,3,soft & wet,Veldt,meltycanon, Electronic,4,6
+219,3,3,soft & wet,Patroklos,meltycanon, Electronic,4,1
+220,2,3,old compilation 3,suncream,meltycanon, Electronic,4,1
+221,2,3,Moth,Crying in Public,chairlift, Indie pop,8,5
+222,4,3,Caramel,It's Your Body 4,connan mockasin, Psychedelic pop,2,16
+223,4,3,Marcy Playground,Poppies,marcy playground, Alternative rock,4,6
+224,1,3,Summer House,Just Kiss Her,concorde, Indie pop,8,5
+225,2,3,Infinity,Infinity,mariah carey, R&B,7,5
+226,3,3,E=MC²,Touch My Body,mariah carey, R&B,7,15
+227,3,3,We're Not Just Friends,We're Not Just Friends,"parks, squares and alleys",,5,1
+228,1,3,Quebec,Tried And True,ween, Alternative rock,6,5
+229,3,3,It's About Time,Weak,swv, R&B,3,1
+230,3,3,Morningside,Lucky Girl,fazerdaze, Dream pop,9,15
+231,2,3,"Mons Vi Bootlegs, Vol. 1 (B-Sides Compilation)",Stay (Bedroom Tape),mons vi, Indie pop,5,1
+232,4,3,Dead Man's Party,Weird Science,oingo boingo, New wave,5,6
+233,5,3,Dead Man's Party,No One Lives Forever,oingo boingo, New wave,5,6
+234,5,3,Boingo Alive,Wild Sex (In The Working Class) - 1988 Boingo Alive Version,oingo boingo, New wave,5,6
+235,5,3,Only A Lad,Only A Lad,oingo boingo, New wave,5,6
+236,5,3,Skeletons In The Closet: The Best Of Oingo Boingo,Private Life - Edited Version,oingo boingo, New wave,5,6
+237,4,3,melanchole,i was all over her,salvia palth, Lo-fi,5,6
+238,2,3,Blonde Tongues,Hey Good Lookin',blonde tongues, Ambient,9,5
+239,4,3,The Age of Adz,All for Myself,sufjan stevens, Indie folk,0,16
+240,2,3,"""What Is This Heart?""",Words I Don't Remember,how to dress well, R&B,7,5
+241,3,3,Care,Lost Youth / Lost You,how to dress well, R&B,7,15
+242,1,3,What You Won't Do for Love,What You Won't Do for Love,bobby caldwell, R&B,2,7
+243,5,3,Candy Apple Grey,Don't Want To Know If You Are Lonely,hüsker dü,,1,16
+244,4,3,Eight Miles High/Makes No Sense At All (Single),Eight Miles High,hüsker dü,,1,16
+245,4,3,Warehouse: Songs And Stories,Turn It Around,hüsker dü,,1,16
+246,5,3,Warehouse: Songs And Stories,She's A Woman [And Now He Is A Man],hüsker dü,,1,16
+247,5,3,Candy Apple Grey,Crystal,hüsker dü,,1,16
+248,3,3,Turning Japanese - Best Of The Vapors,Turning Japanese,the vapors, New wave,0,16
+249,4,3,Interference / Smile & Gesture,Interference,lets kill janice, Indie rock,1,16
+250,4,3,Grow,Nothing Lasts,bedroom, Dream pop,9,15
+251,1,3,Vivid,Nostalgic Feel,bedroom, Dream pop,9,5
+252,4,3,Playground,Spread A Little Sunshine,the truth, Indie pop,0,16
+253,4,3,Gift,Drugs,gift, Indie pop,1,16
+254,2,3,Lucky Streik,Kalte Wut / Wenn Ich Einmal Reich Bin,floh de cologne, Krautrock,1,7
+255,1,3,May Blitz,Smoking the Day Away,may blitz, Hard rock,5,5
+256,4,3,High Plains Drifter,High Plains Anthem,jehst, Hip hop,1,16
+257,1,3,Enta da Stage,Who Got Da Props,black moon, Hip hop,8,5
+258,3,3,Here Come the Lords,Chief Rocka,lords of the underground, Hip hop,5,1
+259,4,3,One by One,Love's Been Good To Me,rod mckuen, Pop,5,6
+260,1,3,"Songs of Rod McKuen, Vol. 1 & 2",Listen to the Warm,john safranko, Folk,4,7
+261,1,3,Alopecia,Fatalist Palmistry,why?, Indie rock,0,7
+262,4,3,"Cult of Personality - So Sad, So Sad","So Sad, So Sad",varsity, Indie pop,0,16
+263,2,3,"Cult of Personality - So Sad, So Sad",Cult of Personality,varsity, Indie pop,0,7
+264,1,3,What Do You Think About the Car?,Brazil,declan mckenna, Indie rock,8,5
+265,4,3,What Do You Think About the Car?,Bethlehem,declan mckenna, Indie rock,8,15
+266,4,3,Yesterday's Tomorrow,Why iii Love The Moon.,phony ppl, R&B,3,16
+267,2,3,Home Again,I'll Get Along,michael kiwanuka, Soul,7,5
+268,4,3,At Last!,A Sunday Kind Of Love - Single Version,etta james,R&B,2,16
+269,2,3,Dear You,Chemistry,jawbreaker,Punk rock,7,5
+270,1,3,Jettison,Soldiers Requiem,naked raygun,Punk rock,7,5
+271,2,3,Raygun...Naked Raygun,Camarilla,naked raygun,Punk rock,7,5
+272,1,3,Jettison,Vanilla Blue,naked raygun,Punk rock,7,5
+273,4,3,Dragonchaser,Push,fog lake,Dream pop,2,16
+274,1,3,Driftless,Driftless,vansire,Dream pop,3,7
+275,2,3,Heart Land,I'm So Ugly,good good blood, Folk,4,1
+276,1,3,Wounds,Wounds,ourselves the elves, Indie folk,5,5
+277,1,3,Broken,"You Loved Me, You Killed Me",odina, Indie folk,5,5
+278,3,3,Goose Bumps,Embarrassingly Enough,boyscott, Dream pop,9,3
+279,3,3,Suburban Lawns,Janitor,suburban lawns, New wave,0,16
+280,4,3,Timeline,Elegy,mild high club, Psychedelic pop,7,6
+281,4,4,Mellon Collie and the Infinite Sadness,"Tonight, Tonight",the smashing pumpkins, Alternative rock,6,6
+282,2,4,(What's The Story) Morning Glory? [Remastered],Wonderwall - Remastered,oasis, Britpop,6,5
+283,4,4,I Don't Want To Miss A Thing,"I Don't Want to Miss a Thing - From the Touchstone film, ""Armageddon""",aerosmith, Rock,2,16
+284,4,4,Retrospective 1990-2005 [Ltd. Deluxe Version],Jealousy - Remastered Single Version,natalie merchant, Folk rock,5,6
+285,4,4,Crazysexycool,Waterfalls,tlc,R&B,3,16
+286,5,4,Mellon Collie and the Infinite Sadness,1979,the smashing pumpkins, Alternative rock,6,6
+287,4,4,Left Of The Middle,Torn,natalie imbruglia, Pop rock,5,6
+288,1,4,Tails,Stay,lisa loeb & nine stories, Pop rock,1,9
+289,4,4,Toni Braxton,Breathe Again,toni braxton, R&B,3,16
+290,1,4,Surfacing,Angel,sarah mclachlan, Pop,5,5
+291,2,4,Urban Hymns,Bitter Sweet Symphony,the verve, Britpop,6,5
+292,1,4,Grave Dancers Union,Runaway Train,soul asylum, Alternative rock,6,5
+293,3,4,Villains,The Freshmen,the verve pipe, Alternative rock,6,1
+294,1,4,Life For Rent,White Flag,dido, Pop,8,5
+295,1,4,The Best Of Sade,Smooth Operator - Single Version,sade, R&B,3,9
+296,1,4,The Best Of Suzanne Vega - Tried And True,"Tom's Diner - 7"" Version",dna, Electronic,9,5
+297,3,4,Cracked Rear View,Only Wanna Be With You,hootie & the blowfish, Rock,7,3
+298,3,5,The Kickback,Teach Me How to Dougie,cali swag district, Hip hop,8,3
+299,3,5,Party Rock,Shots,lmfao, Dance-pop,4,1
+300,4,5,Vanilla Ice Is Back! - Hip Hop Classics,Ice Ice Baby,vanilla ice, Hip hop,0,16
+301,3,5,The RCA Collection,Shout - Parts 1 & 2,the isley brothers, R&B,3,1
+302,4,5,Mail On Sunday,Low (feat T-Pain) - Feat T-Pain Album Version,flo rida, Hip hop,1,16
+303,1,5,The Beginning,The Time (Dirty Bit),the black eyed peas,Hip hop,3,9
+304,1,5,Raymond v Raymond,OMG,usher,R&B,3,9
+305,2,5,Thriller 25 Super Deluxe Edition,Thriller,michael jackson, Pop,5,1
+306,4,5,Mack Daddy,Baby Got Back,sir mix-a-lot, Hip hop,5,6
+307,4,5,Raise Your Glass,Raise Your Glass,p!nk, Pop,5,6
+308,2,5,Cha Cha Slide,Cha Cha Slide - Original Live Platinum Band Mix,mr. c the slide man, Hip hop,5,1
+309,2,5,Sweet Caroline,Sweet Caroline,neil diamond, Pop,5,1
+310,3,5,Time For A Change,Cupid Shuffle,cupid, R&B,2,1
+311,1,5,The Fame,Just Dance,lady gaga, Pop,1,9
+312,2,5,Evacuate The Dancefloor,Evacuate The Dancefloor,cascada,Eurodance,2,9
+313,3,5,Discovery,One More Time,daft punk, Electronic,9,3
+314,2,5,Only One Flo [Part 1],Club Can't Handle Me (feat. David Guetta) - Feat. David Guetta,flo rida, Hip hop,1,9
+315,3,5,Planet Pit (Deluxe Version),Give Me Everything,pitbull, Hip hop,5,1
+316,3,5,Sorry For Party Rocking,Party Rock Anthem,lmfao, Dance-pop,4,1
+317,2,5,Talk That Talk,We Found Love,rihanna, R&B,3,1
+318,1,5,"Save Me, San Francisco (Golden Gate Edition)",Marry Me,train, Rock,3,9
+319,1,5,Pink Friday ... Roman Reloaded,Starships,nicki minaj, Hip hop,5,5
+320,2,5,At Last!,At Last - Single Version,etta james,R&B,2,9
+321,2,5,Wild Cherry,Play That Funky Music,wild cherry, Funk,0,9
+322,2,5,30 Essential Old School Hits,Tootsie Roll,old school players, Hip hop,5,1
+323,2,5,The Essential Michael Jackson,The Way You Make Me Feel - Single Version,michael jackson, Pop,5,1
+324,1,5,Big Willie Style,Miami,will smith, Hip hop,0,9
+325,3,5,Thriller 25 Super Deluxe Edition,Billie Jean,michael jackson, Pop,5,1
+326,3,5,Is This Love,Is This Love - Montmartre Remix,bob marley & the wailers,Reggae,2,1
+327,2,5,x,Thinking Out Loud,ed sheeran,Pop,2,9
+328,4,5,Doo-Wops & Hooligans,Marry You,bruno mars, Pop,8,6
+329,3,5,Messenger,I Could Not Ask For More,edwin mccain, Rock,2,1
+330,4,5,We Sing. We Dance. We Steal Things.,Lucky,jason mraz,Pop,7,6
+331,3,5,Sixpence None the Richer,Kiss Me,sixpence none the richer, Pop,5,1
+332,1,5,"Oh, What A Life",Best Day Of My Life,american authors, Indie pop,8,5
+333,1,5,Love Always,All My Life,k-ci & jojo,R&B,7,5
+334,1,5,Onka's Big Moka,Dancing in the Moonlight,toploader, Pop,0,9
+335,2,5,All Of You,I Do,colbie caillat, Pop,8,3
+336,2,5,I AM...SASHA FIERCE - Platinum Edition,Single Ladies (Put a Ring on It),beyoncé,,8,3
+337,1,5,Big Whiskey and the GrooGrux King,You & Me,dave matthews band, Rock,2,9
+338,4,5,THE E.N.D. (THE ENERGY NEVER DIES),I Gotta Feeling,the black eyed peas,Hip hop,3,6
+339,1,5,Bangerz (Deluxe Version),We Can't Stop,miley cyrus,Pop,7,5
+340,4,5,Melt,I Melt,rascal flatts, Country,6,6
+341,4,5,Unstoppable,Summer Nights,rascal flatts, Country,6,6
+342,5,5,Me And My Gang,My Wish,rascal flatts, Country,6,6
+343,5,5,Me And My Gang,Life Is A Highway,rascal flatts, Country,6,6
+344,5,5,Feels Like Today,Bless The Broken Road,rascal flatts, Country,6,6
+345,4,5,Rewind,Payback,rascal flatts, Country,6,6
+346,1,5,Greatest Hits,Mary Jane's Last Dance,tom petty and the heartbreakers, Rock,3,9
+347,1,5,The Rokstarr Hits Collection,Dynamite,taio cruz, R&B,3,9
+348,4,5,A Town Called Paradise,Wasted,tiësto,,0,19
+349,4,5,The Lumineers,Ho Hey,the lumineers, Folk rock,0,19
+350,1,5,R.O.O.T.S. (Route Of Overcoming The Struggle),Right Round - feat. Ke$ha,flo rida, Hip hop,1,9
+351,2,5,Wild Ones,Whistle,flo rida, Hip hop,1,9
+352,2,5,Wild Ones,Good Feeling,flo rida, Hip hop,1,9
+353,3,5,House of Pain (Fine Malt Lyrics),Jump Around,house of pain,Hip hop,7,3
+354,4,5,Totally Krossed Out,Jump,kris kross,Hip hop,7,6
+355,3,5,Welcome II Nextasy,Wifey - Club Mix/Dirty Version,next,R&B,7,3
+356,3,5,Exclusive - The Forever Edition,Wall To Wall,chris brown,R&B,2,1
+357,1,5,Electroman,Beautiful People - Radio Edit,chris brown,R&B,2,9
+358,3,5,Here's To The Good Times...This Is How We Roll,This Is How We Roll,florida georgia line, Country,4,1
+359,4,5,X (Deluxe Version),Love More,chris brown,R&B,2,19
+360,2,5,I Cry When I Laugh,Rather Be (feat. Jess Glynne),clean bandit, Electronic,9,3
+361,4,5,MKTO,Classic,mkto, Pop,5,6
+362,2,5,SUCKER,Boom Clap,charli xcx, Pop,8,3
+363,3,5,Motion,Summer,calvin harris, Electronic,9,3
+364,1,5,Shower,Shower,becky g, Latin pop,8,5
+365,1,5,My Everything,Problem,ariana grande, Pop,8,5
+366,2,5,The Heist,Can't Hold Us - feat. Ray Dalton,macklemore & ryan lewis, Hip hop,5,1
+367,3,5,Global Warming: Meltdown (Deluxe Version),Timber,pitbull, Hip hop,5,1
+368,2,5,Bittersweet Symphony,Bittersweet Symphony,the aranbee pop symphony orchestra,Classical,3,1
+369,3,6,Creedence Clearwater Revival,I Put A Spell On You,creedence clearwater revival,Rock,2,1
+370,1,6,Reptilians,Bury Us Alive,strfkr, Indie pop,0,9
+371,3,6,311,Jackolantern's Weather,311, Alternative rock,9,3
+372,4,6,Nathaniel Rateliff & The Night Sweats,S.O.B.,nathaniel rateliff & the night sweats, Soul,7,6
+373,1,6,Rubberneck,Possum Kingdom,toadies, Alternative rock,6,5
+374,1,6,Songs For The Deaf,No One Knows,queens of the stone age, Rock,3,9
+375,3,6,No Need To Argue (The Complete Sessions 1994-1995),Zombie,the cranberries, Alternative rock,6,3
+376,5,6,Project 1950,Monster Mash,misfits, Punk rock,7,6
+377,5,6,Evilive,Ghouls Night Out - Live,misfits, Punk rock,7,6
+378,4,6,Static Age,Hybrid Moments,misfits, Punk rock,7,6
+379,1,6,Here's Willy Moon,Yeah Yeah,willy moon, Indie pop,0,9
+380,1,6,Holiday Man,Got You (Where I Want You),the flys, Alternative rock,6,5
+381,2,6,Currents,The Less I Know The Better,tame impala, Psychedelic rock,3,9
+382,1,6,1000 Forms Of Fear,Chandelier,sia,Pop,3,9
+383,3,6,1000 Forms Of Fear,Elastic Heart,sia,Pop,3,1
+384,3,6,"Whatever People Say I Am, That's What I'm Not",Dancing Shoes,arctic monkeys, Indie rock,8,3
+385,3,7,"Fink’s Sunday Night Blues Club, Vol. 1",Hard To See You Happy,fink, Folk,9,3
+386,4,7,We Move,One Thousand Times,james vincent mcmorrow, Indie folk,1,19
+387,1,7,Somebody Else,Somebody Else,vérité,,0,9
+388,2,7,SEPT 5TH,Hallucinations,dvsn, R&B,2,9
+389,3,7,Call On Me,Call On Me - Ryan Riback Extended Remix,starley, Pop,0,18
+390,5,7,Days Are Gone,If I Could Change Your Mind,haim, Indie pop,1,19
+391,5,7,Feels,Feels,kiiara, Pop,1,19
+392,4,7,Notion,Jungle,tash sultana, Indie rock,0,19
+393,3,7,Topograph,Window Seat,thomston, Indie pop,0,18
+394,5,7,low kii savage,Tennessee,kiiara, Pop,1,19
+395,4,7,Oh Wonder,Livewire,oh wonder, Indie pop,5,6
+396,1,7,Crowded Places,Crowded Places,banks, R&B,2,9
+397,3,7,Bad Boy's 10th Anniversary- The Hits,"I Need a Girl Part 2 (feat. Loon, Ginuwine & Mario Winans)",diddy, Hip hop,1,18
+398,3,7,Hyperreal,Hyperreal,flume, Electronic,4,1
+399,5,7,I,California,niia,R&B,7,6
+400,3,7,hopeless fountain kingdom,Eyes Closed,halsey, Pop,1,18
+401,4,7,Boomerang,Closedloop,elliot moss, Indie pop,1,19
+402,5,7,The Kite String Tangle,Selfish,the kite string tangle, Indie pop,0,19
+403,3,7,Truth Is a Beautiful Thing (Deluxe),Wild Eyed,london grammar, Indie pop,1,18
+404,1,7,"""Awaken, My Love!""",Redbone,childish gambino, Hip hop,8,17
+405,4,7,LANY,13,lany, Indie pop,1,19
+406,2,7,May I Have This Dance (Remix) [feat. Chance the Rapper],May I Have This Dance (Remix) [feat. Chance the Rapper],francis and the lights, Indie pop,1,9
+407,1,7,Something Like Chaos,Something Like Chaos,water park, Indie pop,0,9
+408,3,7,Ordinary Madness,Ordinary Madness - Edit,joe goddard, Electronic,4,1
+409,4,7,Scream Above The Sounds,All In One Night,stereophonics, Rock,3,19
+410,5,7,Nobody,Nobody - Atom Tree Remix,niia,R&B,7,6
+411,4,7,Sun Comes Up,Sun Comes Up - OFFAIAH Remix,rudimental, Drum and bass,6,6
+412,4,7,Stateless,Bloodstream,stateless, Trip hop,3,19
+413,4,7,Woodland - EP,Bloom - Bonus Track,the paper kites, Indie folk,0,19
+414,4,7,Desire Path,Chasing Shadows,yeo, Indie pop,0,19
+415,2,7,Memory Ivy,I Don't See,gosto, Indie pop,1,9
+416,4,7,Soul Vibrations,The Journey,sol rising, Electronic,6,6
+417,4,7,Backbeat,Backbeat - Acoustic,dagny, Pop,8,11
+418,4,7,Migration,No Reason,bonobo, Electronic,9,11
+419,1,7,Love In Bad Company,Love In Bad Company,gotts street park, Electronic,4,9
+420,1,7,Summer Days,Summer Days - Roosevelt Remix,rhye, R&B,3,9
+421,3,7,Silhouettes,Complication,aquilo, Indie pop,8,3
+422,1,7,In Stone,Reap,basecamp, R&B,2,9
+423,1,7,A Song For Every Moon,Just The Same,bruno major, Indie pop,8,17
+424,4,7,Another River,Motionless,alpines,Indie pop,2,19
+425,1,7,Miss You,Miss You - HONNE Remix,james hersey, Indie pop,1,9
+426,3,7,Think About That,Think About That,jessie j, Pop,1,18
+427,4,7,Sun Comes Up,Sun Comes Up - Heyder Remix,rudimental, Drum and bass,6,6
+428,3,7,Settle,Latch,disclosure, Electronic,9,3
+429,3,7,Lover,Hero,george maple, Electronic,4,1
+430,4,7,No Fear,No Fear,dej loaf, Hip hop,8,11
+431,2,7,Find Yourself,Find Yourself,great good fine ok, Synth-pop,7,3
+432,1,7,Show Me (feat. Madison Ryann Ward),Show Me (feat. Madison Ryann Ward),john splithoff, Pop,1,9
+433,5,7,Little of Your Love,Little of Your Love - BloodPop® Remix,haim, Indie pop,1,19
+434,4,7,Dynamite (feat. Allday),Dynamite (feat. Allday),asta, Pop,8,11
+435,2,7,Attention,Attention,charlie puth, Pop,8,3
+436,2,7,Oxygen,Altitude,fred v & grafix, Drum and bass,4,14
+437,1,8,The Ride,Twice,catfish and the bottlemen, Rock,2,9
+438,1,8,The Ride,7,catfish and the bottlemen, Rock,2,9
+439,1,8,Unpeeled,Whole Wide World - Unpeeled,cage the elephant, Rock,2,9
+440,4,8,The Getaway,Goodbye Angels,red hot chili peppers, Alternative Rock,6,4
+441,1,8,MOSAIC,Too Much To Think,311, Alternative rock,9,17
+442,4,8,Inside In / Inside Out,She Moves In Her Own Way,the kooks, Indie rock,0,19
+443,2,8,LA DIVINE,Love Is Mystical,cold war kids, Indie Rock,8,3
+444,2,8,Hold My Home,First,cold war kids, Indie Rock,8,3
+445,3,8,WALLS,Waste A Moment,kings of leon, Alternative Rock,4,4
+446,4,8,"How Big, How Blue, How Beautiful",What Kind Of Man,florence + the machine, Indie Pop,1,19
+447,4,8,"How Big, How Blue, How Beautiful",Ship To Wreck,florence + the machine, Indie Pop,1,19
+448,4,8,Abbey Road,Come Together - Remastered,the beatles, Rock,3,19
+449,2,8,WALLS,Reverend,kings of leon, Alternative Rock,4,14
+450,1,8,By The Way,Cabron,red hot chili peppers, Alternative Rock,6,14
+451,2,8,By The Way,Minor Thing,red hot chili peppers, Alternative Rock,6,3
+452,2,8,Revolution Radio,Outlaws,green day, Punk Rock,7,3
+453,2,8,Revolution Radio,Ordinary World,green day, Punk Rock,7,3
+454,3,8,Strange Trails,The Night We Met,lord huron, Indie Folk,5,4
+455,5,8,Let It Be,Let It Be - Remastered,the beatles, Rock,3,19
+456,4,8,Woodstock,Feel It Still,portugal. the man, Indie Rock,5,4
+457,3,8,This Is All Yours,Left Hand Free,alt-j, Indie Rock,8,3
+458,3,8,The Balcony,Kathleen,catfish and the bottlemen, Rock,2,18
+459,4,8,Never Trust A Happy Song,Tongue Tied,grouplove, Indie Pop,1,19
+460,5,8,1,Hey Jude - Remastered 2015,the beatles, Rock,3,19
+461,5,8,1,I Want To Hold Your Hand - Remastered 2015,the beatles, Rock,3,19
+462,4,8,Plastic Beach,On Melancholy Hill,gorillaz, Alternative Rock,4,4
+463,2,8,Vampire Weekend,A-Punk,vampire weekend, Indie pop,0,18
+464,4,8,With The Beatles,All My Loving - Remastered,the beatles, Rock,3,19
+465,4,8,Out of the Blue,Mr. Blue Sky,electric light orchestra, Rock,2,19
+466,1,8,Any Port In A Storm,Lay Me Down,dirty heads, Reggae Rock,2,9
+467,2,8,Lungs,Dog Days Are Over,florence + the machine, Indie Pop,1,18
+468,3,8,Stadium Arcadium,Hard To Concentrate,red hot chili peppers, Alternative Rock,6,3
+469,3,8,Big Mess,Welcome To Your Life,grouplove, Indie Pop,1,18
+470,3,8,Greatest Hits,Soul To Squeeze,red hot chili peppers, Alternative Rock,6,3
+471,2,8,Alle 40 Goed,Red Red Wine - Edit,ub40, Reggae,3,9
+472,4,8,Help!,Yesterday - Remastered,the beatles, Rock,3,19
+473,2,8,Plans,Soul Meets Body,death cab for cutie, Indie Rock,8,3
+474,4,8,By The Way,I Could Die For You,red hot chili peppers, Alternative Rock,6,4
+475,4,8,Help!,Help! - Remastered,the beatles, Rock,3,19
+476,4,8,"The Birds, The Bees, & The Monkees",Daydream Believer,the monkees, Pop Rock,0,19
+477,4,8,The Beatles 1967 - 1970,Revolution - Remastered,the beatles, Rock,3,19
+478,4,8,Rainbow,Rainbow,kesha,Pop,7,11
+479,1,8,The Ride,Soundcheck,catfish and the bottlemen, Rock,2,9
+480,3,8,Young Blood,Young Blood,noah kahan, Indie Folk,5,4
+481,3,8,Stadium Arcadium,Make You Feel Better,red hot chili peppers, Alternative Rock,6,3
+482,3,8,Melophobia,Take It or Leave It,cage the elephant, Rock,2,18
+483,5,9,Nashville Rebel,Highwayman,willie nelson, Country,6,6
+484,2,9,Bury Me In My Boots,Drunk Like You,the cadillac three, Southern Rock,3,14
+485,1,9,Girl Problems,Fix,chris lane, Country Pop,9,17
+486,4,9,Down The Road I Go,It's A Great Day To Be Alive,travis tritt, Country,6,4
+487,2,9,16 Biggest Hits,Chattahoochee - Extended Mix,alan jackson, Country,9,17
+488,3,9,Redneck Shit,Eatin' Pussy/Kickin' Ass,wheeler walker jr., Country,6,4
+489,1,9,Firewater,Ballad Of A Southern Man,whiskey myers, Southern Rock,3,9
+490,3,9,Pearl Snaps,Somewhere Down in Texas,jason boland & the stragglers, Country,4,4
+491,3,9,A Different Day,Diamond In My Pocket,cody johnson, Country,9,3
+492,4,9,Merle Haggard - The Best Of The Capitol Years,I'm Bringin' Home Good News,merle haggard, Country,4,4
+493,4,9,Prison,Branded Man - 2001 Digital Remaster,merle haggard, Country,4,4
+494,1,9,Playlist: The Very Best Of David Allan Coe,"Jack Daniel's, If You Please",david allan coe, Outlaw Country,8,17
+495,2,9,Greatest Hits: Mark Chesnutt,Goin' Through The Big D,mark chesnutt, Country,4,14
+496,1,9,Out Of Hand,Out of Hand,gary stewart, Country,4,14
+497,4,9,Keep Movin On,Kentucky Gambler,merle haggard & the strangers, Country,4,4
+498,3,9,Killin' Time,Killin' Time,clint black, Country,9,3
+499,4,9,Best Of The Best Of,The Fightin' Side Of Me,merle haggard & the strangers, Country,4,4
+500,4,9,The Essential Brooks & Dunn,Neon Moon,brooks & dunn, Country,9,11
+501,1,9,Deep South,Hometown Girl,josh turner, Country,4,14
+502,3,9,On The Rocks,Drinkin' Problem,midland, Country,4,4
+503,3,10,Stoney,Big Lie,post malone, Hip Hop,5,4
+504,2,10,Coloring Book,All We Got (feat. Kanye West & Chicago Children's Choir),chance the rapper, Hip Hop,8,17
+505,1,10,Late Nights: The Album,Planez,jeremih, R&B,7,17
+506,4,10,I Am Not A Human Being II,Rich As Fuck,lil wayne, Hip Hop,1,19
+507,1,10,Lasers,The Show Goes On,lupe fiasco, Hip Hop,5,14
+508,3,10,Tiimmy Turner,Tiimmy Turner,desiigner, Hip Hop,8,11
+509,3,10,Attention Deficit,Chillin,wale, Hip Hop,0,18
+510,1,10,Culture,T-Shirt,migos, Hip Hop,5,14
+511,1,10,More Life,Portland,drake, Hip Hop,1,9
+512,3,10,I Decided.,Light,big sean, Hip Hop,8,11
+513,2,10,T R A P S O U L,Don't,bryson tiller, R&B,2,18
+514,3,10,My Krazy Life,Who Do You Love?,yg, Hip Hop,0,18
+515,2,10,Dreams Worth More Than Money,Jump Out The Face (feat. Future),meek mill, Hip Hop,5,14
+516,4,10,Finally Famous,My Last,big sean, Hip Hop,8,11
+517,4,10,Shock Value II,Say Something (Featuring Drake),timbaland, Hip Hop,0,19
+518,1,10,Oxymoron,Studio,schoolboy q, Hip Hop,5,14
+519,3,10,Deadroses,Deadroses,blackbear, R&B,2,18
+520,4,10,digital druglord,make daddy proud,blackbear, R&B,2,19
+521,1,10,2014 Forest Hills Drive,G.O.M.D.,j. cole, Hip-hop,1,9
+522,4,10,Nothing But Trouble,Nothing But Trouble - Instagram Models,lil wayne, Hip Hop,1,19
+523,1,10,Dark Sky Paradise,I Don't Fuck With You,big sean, Hip Hop,8,17
+524,2,10,The Bigger Artist,Drowning (feat. Kodak Black),a boogie wit da hoodie, Hip-hop,8,17
+525,4,10,Birds In The Trap Sing McKnight,goosebumps,travis scott, Hip-hop,0,19
+526,2,10,Mansionz,STFU,mansionz, Pop,5,14
+527,1,10,Exposed,Exposed,russ, Hip-hop,5,14
+528,4,10,Culture,Slippery (feat. Gucci Mane),migos, Hip Hop,5,4
+529,3,10,"good kid, m.A.A.d city",m.A.A.d city,kendrick lamar, Hip-hop,1,18
+530,1,10,Good For You,Yellow,aminé, Hip-hop,8,17
+531,4,10,Coloring Book,Juke Jam (feat. Justin Bieber & Towkio),chance the rapper, Hip Hop,8,11
+532,2,10,Bodak Yellow,Bodak Yellow,cardi b, Hip-hop,8,17
+533,4,10,If You're Reading This It's Too Late,Preach,drake, Hip Hop,1,19
+534,3,10,Shell Shocked (feat. Kill The Noise & Madsonik),"Shell Shocked (feat. Kill The Noise & Madsonik) - From ""Teenage Mutant Ninja Turtles""",juicy j, Hip-hop,1,18
+535,1,10,GEMINI,Marmalade (feat. Lil Yachty),macklemore, Hip-hop,5,14
+536,2,10,Stoney,Go Flex,post malone, Hip Hop,5,14
+537,2,10,There's Really A Wolf,Do It Myself,russ, Hip-hop,5,14
+538,2,10,SremmLife,Come Get Her,rae sremmurd, Hip-hop,5,14
+539,4,10,Rebirth,Drop The World,lil wayne, Hip Hop,1,19
+540,1,10,The Rising Tied,Remember The Name (feat. Styles Of Beyond),fort minor, Hip-hop,1,9
+541,3,10,4 Your Eyez Only,Deja Vu,j. cole, Hip-hop,1,18
+542,2,10,The Story of Us,Straightjacket,quinn xcii, Pop,5,14
+543,4,10,The Heist [Deluxe Edition],"White Walls (feat. ScHoolboy Q, Hollis)",macklemore & ryan lewis, Hip hop,5,4
+544,4,10,Luca Brasi 2: Gangsta Grillz,Break The Bitch Down (feat. K. Camp),kevin gates, Hip-hop,1,19
+545,4,10,SremmLife,No Type,rae sremmurd, Hip-hop,5,4
+546,4,10,By Any Means 2,D U Down,kevin gates, Hip-hop,1,19
+547,5,10,By Any Means 2,Fuckin Right,kevin gates, Hip-hop,1,19
+548,5,10,By Any Means 2,GOMD,kevin gates, Hip-hop,1,19
+549,4,10,Hot N*gga,Hot N*gga,bobby shmurda, Hip-hop,8,11
+550,5,10,Stranger Than Fiction,Thinking With My D**k (feat. Juciy J),kevin gates, Hip-hop,1,19
+551,3,10,No Flockin,No Flockin,kodak black, Hip-hop,1,18
+552,3,10,The Bigger Artist,Say A',a boogie wit da hoodie, Hip-hop,8,11
+553,1,10,Butterfly Effect,Butterfly Effect,travis scott, Hip-hop,0,9
+554,3,10,Help,Verbatim,blackbear, R&B,2,18
+555,2,10,Sniffing Vicodin In Paris (Danny Olson Remix) [feat. Danny Olson],Sniffing Vicodin In Paris (Danny Olson Remix) [feat. Danny Olson],blackbear, R&B,2,18
+556,2,10,Professional Rapper,Molly (feat. Brendon Urie of Panic at the Disco),lil dicky, Hip-hop,1,18
+557,3,10,My Moment,First Day Out,tee grizzley, Hip-hop,0,18
+558,2,10,"Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie)","Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie)",pnb rock, Hip-hop,5,14
+559,1,10,Take Care,Headlines,drake, Hip Hop,1,9
+560,3,10,Professional Rapper,Lemme Freak,lil dicky, Hip-hop,1,18
+561,5,10,Tha Carter IV,Blunt Blowin,lil wayne, Hip Hop,1,19
+562,2,10,Excuse My French,Pop That,french montana, Hip-hop,1,18
+563,3,10,Late Nights: The Album,oui,jeremih, R&B,7,11
+564,5,10,Tha Carter IV,How To Love,lil wayne, Hip Hop,1,19
+565,4,10,Dreams and Nightmares,Dreams and Nightmares,meek mill, Hip Hop,5,4
+566,2,10,Real Hitta (feat. Kodak Black),Real Hitta (feat. Kodak Black),plies, Hip-hop,5,14
+567,1,10,The Album About Nothing,The Girls On Drugs,wale, Hip Hop,0,9
+568,2,10,SremmLife,Up Like Trump,rae sremmurd, Hip-hop,5,14
+569,1,10,SremmLife,Throw Sum Mo,rae sremmurd, Hip-hop,5,14
+570,4,10,This Isn't The Album,These Days,mike stud, Hip-hop,5,4
+571,1,10,The Click,Drama,ajr, Pop,8,17
+572,1,10,These Days,Swish,mike stud, Hip-hop,5,14
+573,2,10,Let the Games Begin,Let the Games Begin,ajr, Pop,8,17
+574,4,10,All That Talk,All That Talk,mike stud, Hip-hop,5,4
+575,3,11,Hôtel Costes 12,In the morning - Version,natural self, Electronic,4,4
+576,3,11,Gimme Fiction,I Turn My Camera On,spoon, Indie rock,0,18
+577,1,11,No Angel,Honestly Ok,dido, Pop,8,17
+578,2,11,Magic Monday,Believe In It,michna, Electronic,4,14
+579,4,11,Taking up Your Precious Time,Finally Moving,pretty lights, Electronic,6,4
+580,3,11,Baduizm,On & On,erykah badu, R&B,2,18
+581,2,11,Nightcall,Nightcall,kavinsky, Electronic,4,14
+582,1,11,Interstellar,The Vortex,jens buchert, Electronic,4,14
+583,1,11,Simple Things,In The Waiting Line,zero 7, Electronic,6,14
+584,3,11,A More Hands,Mandarine Girl,lotus, Electronic,4,4
+585,4,11,"Chill Del Sol, Vol. 2",Porcelain,oakman, Electronic,6,4
+586,2,11,White People,I've Been Thinking,handsome boy modeling school, Hip-hop,1,18
+587,3,11,Youth Novels,Little Bit,lykke li, Indie pop,5,4
+588,3,11,Reset EP,Tea Leaf Dancers,flying lotus feat. andreya triana, Electronic,4,4
+589,2,11,Narst / Love Dub,Love Dub,cooly g, Electronic,9,17
+590,2,11,Kaleidoscope Dream (Deluxe Version),Adorn,miguel, R&B,7,17
+591,4,11,Sleepless,Sleepless,flume, Electronic,4,4
+592,3,11,Tetra,Down The Road,c2c, Electronic,9,11
+593,1,11,Love Songs Drug Songs,Litost,x ambassadors, Indie rock,0,9
+594,5,11,The Outsider,You Made It,dj shadow, Electronic,9,11
+595,3,11,Soulshine,Voodoo Child (Starring Afu Ra) [Dj Premier Remix],dj cam, Electronic,9,11
+596,3,11,> album title goes here <,Telemiscommunications,deadmau5, Electronic,9,11
+597,3,11,Lost & Found Compilation,Show Your Love,dj cam, Electronic,9,11
+598,5,11,"The Less You Know, The Better",Scale It Back,dj shadow, Electronic,9,11
+599,4,11,"The Less You Know, The Better",Redeemed,dj shadow, Electronic,9,11
+600,4,11,Tales of the Forgotten Melodies,Que Sera,wax tailor, Electronic,6,4
+601,2,11,Protection,Protection,massive attack, Electronic,4,14
+602,1,11,Halcyon,Only You,ellie goulding, Pop,1,9
+603,5,11,"The Less You Know, The Better",(Not So) Sad And Lonely,dj shadow, Electronic,9,11
+604,4,11,Reconstructed : The Best Of DJ Shadow,Listen,dj shadow, Electronic,9,11
+605,5,11,"The Less You Know, The Better",I've Been Trying,dj shadow, Electronic,9,11
+606,1,11,Deadringer: Deluxe,Ghostwriter,rjd2, Electronic,6,14
+607,3,11,Creature Dreams,Darkest (Dim),tokimonsta, Electronic,6,4
+608,4,11,Filling up the City Skies (Disc 1),Change Is Gonna Come,pretty lights, Electronic,6,4
+609,4,11,Passing by Behind Your Eyes,Ask Your Friends,pretty lights, Electronic,6,4
+610,2,11,Labcabincalifornia,Runnin',the pharcyde, Hip-hop ,0,18
+611,2,11,La Roux,Cover My Eyes,la roux, Synthpop,7,17
+612,2,11,Morning View,Aqueous Transmission,incubus, Alternative Rock,4,14
+613,3,11,Reset EP,Massage Situation,flying lotus, Electronic,4,4
+614,3,11,xx,Intro,the xx, Indie Pop,0,18
+615,1,11,Maxinquaye,Hell Is Round The Corner,tricky, Trip Hop,3,14
+616,4,11,Crystalised,Crystalised (The Neon Lights Remix),the xx, Indie Pop,0,19
+617,3,11,Coexist,Fiction,the xx, Indie Pop,0,18
+618,2,11,xx,Basic Space,the xx, Indie Pop,0,18
+619,4,11,Live at Low End Theory,Press Snooze,daedelus, Experimental Electronic,9,11
+620,1,11,Body Music,You Know You Like It,alunageorge, Electropop,9,17
+621,4,11,genetic world,Breathe,télépopmusik, Downtempo,6,4
+622,3,11,Wander/Wonder,Motion,balam acab, Witch House,2,18
+623,1,11,Trilogy,Wicked Games,the weeknd, R&B,3,14
+624,1,11,With U,Touch,holy other, Ambient,4,14
+625,4,11,So Far Gone,Houstatlantavegas,drake, Hip Hop,1,19
+626,2,11,The Drake LP,Runnin Away For Good,drake, Hip Hop,1,18
+627,4,11,Since I Left You,Since I Left You,the avalanches, Plunderphonics,0,19
+628,1,11,MTV Presents Unplugged: Florence + The Machine,"Drumming Song - MTV Unplugged, 2012",florence + the machine, Indie Pop,1,9
+629,1,11,Free The Universe Deluxe,Get Free (feat. Amber Coffman),major lazer, Dancehall,4,14
+630,4,11,Little Dragon,No Love,little dragon, Electronic R&B,4,4
+631,2,11,Manners,The Reeling - Calvin Harris Remix,passion pit, Synthpop,3,14
+632,4,11,Collected,Inhaler,hooverphonic, Trip Hop,7,11
+633,3,11,Foreign Language,Foreign Language - Flight Facilities Extended Mix,flight facilities, Indie Dance,1,18
+634,1,11,Queue For Love,Canoe Canoa,populous, Downtempo,6,14
+635,3,11,Miracle,Don't Let Me Down (feat. Cat Martin),blackmill, Chillstep,9,11
+636,2,11,The Sauce,Enter The Machine,pantyraid, Glitch Hop,5,14
+637,3,11,Queue For Love,My Winter Vacation,populous, Downtempo,6,4
+638,1,11,Dial 'M' for Monkey,Nothing Owed,bonobo, Electronic,9,17
+639,5,11,Endtroducing.....,Organ Donor,dj shadow, Electronic,9,11
+640,4,11,Manners,Sleepyhead,passion pit, Synthpop,3,4
+641,2,11,Who Can You Trust?,Trigger Hippie,morcheeba, Trip Hop,7,17
+642,4,11,Portishead,Undenied,portishead, Trip Hop,3,4
+643,3,11,xx,Islands,the xx, Indie Pop,0,18
+644,2,11,Moon Safari,All I Need,air, Electronica,9,17
+645,4,11,Mama's Gun,Bag Lady,erykah badu, R&B,2,19
+646,2,11,Los Angeles,Camel,flying lotus, Electronic,4,14
+647,2,11,Crystalised,Crystalised (Dark Sky Remix),the xx, Indie Pop,0,18
+648,1,11,The Anthology,Electric Relaxation,a tribe called quest, Hip Hop,8,17
+649,2,11,Plastic Beach,Empire Ants (feat. Little Dragon),gorillaz, Alternative Rock,4,14
+650,4,11,Life Of A Ghost,Eyes On Fire,blue foundation, Electronic Rock,9,11
+651,1,11,Life Of Leisure,Feel It All Around,washed out, Chillwave,6,14
+652,3,11,Beba,Get The Money,pantyraid, Glitch Hop,5,4
+653,1,11,Untrue,Ghost Hardware,burial, Dubstep,9,17
+654,1,11,Summer Heart,Hawaii,blackbird blackbird, Dream Pop,9,17
+655,3,11,Tourist,Jupiter,tourist, Electronic,6,4
+656,3,11,Miracle,Let It Be (feat. Veela),blackmill, Chillstep,9,11
+657,1,11,My Beautiful Dark Twisted Fantasy,Lost In The World,kanye west, Hip Hop,1,2
+658,4,11,Miracle,Lucid Truth,blackmill, Chillstep,9,11
+659,4,11,Beach House,Master of None,beach house, Dream Pop,9,11
+660,2,11,Miracle,Miracle,blackmill, Chillstep,9,17
+661,3,11,Ritual Union,Ritual Union,little dragon, Electronic R&B,4,4
+662,1,11,There Is Love in You,She Just Likes to Fight,four tet, Electronic,4,14
+663,2,11,genetic world,Smile,télépopmusik, Downtempo,6,14
+664,2,11,The Cosmic Game,The Time We Lost Our Way featuring Loulou,thievery corporation, Downtempo,6,14
+665,1,11,Trip to the Moon,Triptango,tripssono, Psychedelic Rock,3,14
+666,4,11,Rounds,Unspoken,four tet, Electronic,4,4
+667,2,11,SBTRKT,Wildfire,sbtrkt, UK Bass,3,14
+668,4,11,Things Fall Apart,You Got Me,the roots, Hip Hop,0,12
+669,1,11,Writer's Block,Young Folks,peter bjorn and john, Indie Pop,5,14
+670,4,11,"Passive Me, Aggressive You",Punching In A Dream,the naked and famous, Indie Rock,0,12
+671,1,11,Simplicity 2000,Dub In Ya Mind,afterlife, Downtempo,9,17
+672,4,11,The Dead Sea Scrolls,The Dead Sea Scrolls,fort fairfield, Electronica,4,4
+673,3,11,Quiet Letters,Don't Look Back - Fug Remix,bliss, Downtempo,9,11
+674,4,11,Le voyage dans la lune,Moon Fever,air, Electronica,9,11
+675,4,11,Lost Where I Belong,Lost Where I Belong - Flying Lotus Remix,andreya triana, Soul,2,19
+676,1,11,Kimmi In a Rice Field / Bad Street Remixes,Kimmi In a Rice Field - Balam Acab remix,mr twin sister, Dream Pop,4,14
+677,4,11,Cerulean,Maximalist,baths, Experimental,9,11
+678,4,11,Endtroducing.....,Building Steam With A Grain Of Salt,dj shadow, Electronic,9,11
+679,1,11,The Audience's Listening,The Garden,cut chemist, Turntablism,2,14
+680,3,11,Deltron 3030,Mastermind,deltron 3030, Alternative Hip Hop,9,11
+681,1,11,Far Nearer,Far Nearer,jamie xx, Electronic,4,14
+682,2,11,Feed Me's Big Adventure,Blood Red - Original Mix,feed me, Electro House,9,17
+683,3,11,SomeOthaShip,Mages Sages II (prod. Flying Lotus),georgia anne muldrow, Neo-Soul,1,18
+684,2,11,Levitate,Levitate,paper diamond, Electronic,6,14
+685,3,11,Black Radio,Afro Blue - feat. Erykah Badu,robert glasper experiment, Jazz,5,4
+686,1,11,Dreaming Of A Bigger Life,Feeling Better,michal menert, Electronic,4,14
+687,4,11,Crystal Castles,Untrust Us,crystal castles, Electronic,9,11
+688,1,11,Reach For Glory,Evil Beauty,blackmill, Chillstep,9,17
+689,1,11,Long Distance,Long Distance,fred v & grafix, Drum and bass,4,14
+690,1,11,InContext EP,Show You - Dubba Jonny Remix,incontext, Electronic,4,14
+691,3,11,Do I See Color - Single,Do I See Color,adventure club, Electronic,9,11
+692,3,11,Epiphany,Epiphany,twothirds, Electronic,6,4
+693,4,11,Nightlife,Don't Move,phantogram, Electronic,6,4
+694,1,11,Metals,The Bad In Each Other,feist, Indie Pop,1,2
+695,2,11,Cults,Go Outside,cults, Indie Pop,8,17
+696,2,11,Lucky Shiner,You,gold panda, Electronic,4,14
+697,4,11,"Reggae On The Rocks: Voodoo, Sacraments, Oddities, & Other Holy Anthems",Astro Dub,long beach dub allstars, Reggae,7,11
+698,1,11,Man On The Moon: The End Of Day,Pursuit Of Happiness (nightmare),kid cudi, Hip Hop,1,2
+699,4,11,Hands On The Wheel,Hands On The Wheel,schoolboy q, Hip Hop,5,4
+700,5,12,Yael Naim,New Soul,yael naim, Folk,0,12
+701,5,12,All The Little Lights,Let Her Go,passenger, Folk,5,4
+702,4,12,Sadnecessary,Stolen Dance,milky chance, Folk,5,4
+703,5,12,I Know There's Gonna Be (Good Times) [feat. Popcaan],I Know There's Gonna Be (Good Times) [feat. Popcaan],young thug, Hip Hop,0,12
+704,5,12,Chaos And The Calm,Hold Back The River,james bay, Pop,1,12
+705,4,12,Less Is More,Are You With Me - Radio Edit,lost frequencies, Electronic,4,4
+706,5,12,Blacc Hollywood,So High (feat. Ghost Loft),wiz khalifa, Hip Hop,0,12
+707,4,12,Along Came Tom Jones,It's Not Unusual,tom jones, Pop,0,12
+708,4,12,Know-It-All,Scars To Your Beautiful,alessia cara, Pop,8,11
+709,4,13,Safe Haven,Lost Boy,ruth b., Pop,5,13
+710,2,13,Untamed,Burning House,cam, Country,9,17
+711,3,13,cradlesong,Little Wonders - Radio Version,rob thomas, Pop,5,13
+712,1,13,I'm Wide Awake,Carry You,jeffrey james, Pop,1,2
+713,1,13,Oh Wonder,Lose It,oh wonder, Indie pop,5,14
+714,4,13,Under the Willow Tree,Willow,jasmine thompson, Pop,1,12
+715,1,13,English Rain,Salvation,gabrielle aplin, Pop,1,2
+716,1,13,A Thousand Years,A Thousand Years,christina perri, Pop,8,17
+717,3,13,His Daughter,His Daughter,molly kate kestner, Pop,5,13
+718,2,13,Katy Mac Throwbacks EP,Another Empty Bottle,katy mcallister, Pop,1,2
+719,3,13,Can't Help Falling In Love,Can't Help Falling In Love,joseph vincent, Pop,1,8
+720,3,13,Back from the Edge,Say You Won't Let Go - Luca Schreiner Remix,james arthur, Pop,1,8
+721,5,13,The Intro,Superficial Love,ruth b., Pop,5,13
+722,4,14,311,Down,311, Alternative rock,9,11
+723,3,14,Jagged Little Pill (Remastered),You Oughta Know - 2015 Remastered,alanis morissette, Rock,2,8
+724,3,14,Dirt,Rooster,alice in chains, Rock,2,8
+725,3,14,Facelift,Man in the Box,alice in chains, Rock,2,8
+726,4,14,Stunt,One Week,barenaked ladies, Rock,2,12
+727,2,14,Stunt,It's All Been Done,barenaked ladies, Rock,2,2
+728,3,14,Mellow Gold,Loser,beck, Alternative,9,0
+729,3,14,Deluxe,Good,better than ezra, Alternative,9,0
+730,1,14,Shake Your Money Maker,Hard To Handle,the black crowes, Rock,3,2
+731,4,14,Shake Your Money Maker,She Talks To Angels,the black crowes, Rock,3,8
+732,1,14,Blind Melon,No Rain,blind melon, Rock,2,2
+733,4,14,Blink 182 (Sound and Vision Q4 2007),What's My Age Again?,blink-182,Pop punk,2,12
+734,3,14,Enema Of The State,Adam's Song,blink-182,Pop punk,2,8
+735,4,14,Four,Run-Around,blues traveler, Rock,2,12
+736,2,14,Four,Hook,blues traveler, Rock,2,2
+737,2,14,Sixteen Stone,Glycerine - Remastered,bush, Alternative,9,17
+738,3,14,Alive in Seattle,Far Behind,candlebox, Rock,2,8
+739,4,14,Tubthumper,Tubthumping,chumbawamba, Alternative,9,11
+740,1,14,Collective Soul,December,collective soul,Alternative rock,2,2
+741,2,14,August And Everything After,Mr. Jones,counting crows, Rock,2,2
+742,1,14,Recovering The Satellites,A Long December,counting crows, Rock,2,2
+743,1,14,Empire Records,Sugarhigh,coyote shivers, Rock,2,2
+744,4,14,"Everybody Else Is Doing It, So Why Can't We? (The Complete Sessions 1991-1993)",Linger,the cranberries, Alternative rock,6,13
+745,1,14,The Gift Of Game,Butterfly,crazy town, Rock,2,2
+746,3,14,Crash,So Much to Say,dave matthews band, Rock,2,8
+747,2,14,Duncan Sheik,Barely Breathing,duncan sheik, Alternative,9,17
+748,3,14,Desireless,Save Tonight,eagle-eye cherry, Alternative,9,0
+749,3,14,Misguided Roses,I'll Be,edwin mccain, Rock,2,8
+750,3,14,Eve 6,Inside Out,eve 6, Rock,2,8
+751,1,14,Sparkle And Fade,Santa Monica,everclear, Rock,2,2
+752,3,14,In the Juju Underworld,Hooch,everything, Alternative Rock,4,8
+753,4,14,Short Bus,"Hey Man, Nice Shot - Remastered Version",filter, Industrial Rock,1,12
+754,3,14,Tidal,Criminal,fiona apple, Alternative Rock,4,8
+755,3,14,There Is Nothing Left To Lose,Learn to Fly,foo fighters, Alternative Rock,4,8
+756,3,14,Sunburn,Shimmer - Single Version,fuel, Post-Grunge,1,8
+757,4,14,Something Like Human,Hemorrhage (In My Hands),fuel, Post-Grunge,1,12
+758,4,14,Follow You Down,Follow You Down,gin blossoms, Alternative Rock,4,13
+759,1,14,New Miserable Experience,Hey Jealousy,gin blossoms, Alternative Rock,4,10
+760,4,14,Dizzy Up The Girl,Slide,the goo goo dolls, Alternative Rock,6,13
+761,4,14,Dizzy Up The Girl,Broadway,the goo goo dolls, Alternative Rock,6,13
+762,3,14,Dizzy Up The Girl,Black Balloon,the goo goo dolls, Alternative Rock,6,13
+763,1,14,Dizzy Up The Girl,Iris,the goo goo dolls, Alternative Rock,6,10
+764,4,14,Dookie,Longview,green day, Punk Rock,7,13
+765,3,14,Use Your Illusion II,Knockin' On Heaven's Door,guns n' roses, Rock,7,0
+766,3,14,Where Have All The Merrymakers Gone?,Flagpole Sitta,harvey danger, Alternative Rock,4,8
+767,4,14,Morning View,Warning,incubus, Alternative Rock,4,13
+768,1,14,Make Yourself - Tour Edition,Make Yourself,incubus, Alternative Rock,4,10
+769,4,14,Make Yourself - Tour Edition,Drive,incubus, Alternative Rock,4,13
+770,4,14,Make Yourself - Tour Edition,Stellar - acoustic,incubus, Alternative Rock,4,13
+771,2,14,Morning View,Nice to Know You,incubus, Alternative Rock,4,10
+772,1,14,Nothing's Shocking,Jane Says,jane's addiction, Alternative Rock,4,10
+773,1,14,Throwing Copper,I Alone,live, Alternative Rock,4,10
+774,3,14,Throwing Copper,Lightning Crashes,live, Alternative Rock,4,8
+775,2,14,Throwing Copper,All Over You,live, Alternative Rock,4,10
+776,3,14,Marcy Playground,Sex And Candy,marcy playground, Alternative rock,4,8
+777,3,14,Yourself Or Someone Like You,3AM,matchbox twenty, Alternative Rock,4,8
+778,1,14,Exile On Mainstream,Unwell - Remastered Version,matchbox twenty, Alternative Rock,4,10
+779,4,14,Yourself Or Someone Like You,Real World,matchbox twenty, Alternative Rock,4,13
+780,1,14,So Tonight That I Might See,Fade Into You,mazzy star, Dream Pop,4,10
+781,4,14,In Utero - 20th Anniversary - Deluxe Edition,Heart-Shaped Box,nirvana, Grunge,5,13
+782,4,14,In Utero - 20th Anniversary Remaster,All Apologies,nirvana, Grunge,5,13
+783,4,14,Nevermind,Smells Like Teen Spirit,nirvana, Grunge,5,13
+784,4,14,Nevermind,In Bloom - Nevermind Version,nirvana, Grunge,5,13
+785,4,14,Nevermind,Lithium,nirvana, Grunge,5,13
+786,5,14,Nevermind,Come As You Are,nirvana, Grunge,5,13
+787,2,14,Tragic Kingdom,Spiderwebs,no doubt, Ska Punk,7,10
+788,3,14,Tragic Kingdom,Just A Girl,no doubt, Ska Punk,7,0
+789,2,14,Tragic Kingdom,Don't Speak,no doubt, Ska Punk,7,10
+790,4,14,(What's The Story) Morning Glory? [Remastered],Champagne Supernova - Remastered,oasis, Britpop,6,13
+791,4,14,Americana,Pretty Fly (For A White Guy),the offspring, Punk Rock,3,8
+792,1,14,Ten,Jeremy,pearl jam, Grunge,5,10
+793,3,14,Vitalogy,Better Man - Remastered,pearl jam, Grunge,5,13
+794,1,14,Out Of Time,Losing My Religion,r.e.m., Alternative Rock,6,10
+795,1,14,Californication,Scar Tissue,red hot chili peppers, Alternative Rock,6,10
+796,3,14,Blood Sugar Sex Magik,Under The Bridge,red hot chili peppers, Alternative Rock,6,13
+797,3,14,Astro Lounge,All Star,smash mouth, Alternative Rock,6,13
+798,3,14,Mellon Collie and the Infinite Sadness,Bullet With Butterfly Wings,the smashing pumpkins, Alternative rock,6,13
+799,4,14,"Rotten Apples, The Smashing Pumpkins Greatest Hits",Today,the smashing pumpkins, Alternative rock,6,13
+800,1,14,Superunknown,Black Hole Sun,soundgarden, Grunge,5,10
+801,4,14,Pocket Full Of Kryptonite (Anniversary Edition),Two Princes,spin doctors, Alternative Rock,6,13
+802,1,14,Sublime,Santeria,sublime, Ska Punk,3,2
+803,2,14,Sublime,What I Got,sublime, Ska Punk,3,2
+804,1,14,14:59,Someday,sugar ray, Alternative Rock,6,10
+805,3,14,14:59,Every Morning,sugar ray, Alternative Rock,6,13
+806,3,14,Floored,Fly,sugar ray, Alternative Rock,6,13
+807,4,14,Third Eye Blind,Semi-Charmed Life,third eye blind, Alternative Rock,6,13
+808,3,14,Third Eye Blind,Jumper - 1998 Edit,third eye blind, Alternative Rock,6,13
+809,2,14,Third Eye Blind,How's It Going To Be,third eye blind, Alternative Rock,6,10
+810,1,14,Lemon Parade,If You Could Only See,tonic, Alternative Rock,6,10
+811,3,14,Train,Meet Virginia,train, Rock,3,8
+812,4,14,Everything You Want,You're a God,vertical horizon, Alternative Rock,6,13
+813,4,14,Everything You Want,Everything You Want,vertical horizon, Alternative Rock,6,13
+814,1,14,Bringing Down The Horse,One Headlight,the wallflowers, Alternative Rock,6,10
+815,1,14,Friction Baby,Desperately Wanting,better than ezra, Alternative,9,17
+816,4,14,Greatest Hits,Extra Ordinary,better than ezra, Alternative,9,11
+817,4,15,Sylvan Esso,Coffee,sylvan esso, Indie Pop,0,12
+818,5,15,Sylvan Esso,Wolf,sylvan esso, Indie Pop,0,12
+819,4,15,Sylvan Esso,Uncatena,sylvan esso, Indie Pop,0,12
+820,2,15,"That Sea, The Gambler",The Stable Song,gregory alan isakov, Folk,4,10
+821,3,15,The Weatherman,Amsterdam,gregory alan isakov, Folk,4,8
+822,1,15,Babe I'm Yours,Babe I'm Yours,whilk & misky, Electronic,6,10
+823,2,15,So Good To Me,So Good To Me - Re-work,whilk & misky, Electronic,6,10
+824,4,16,Home of the Strange,Repeat,young the giant, Indie Rock,0,12
+825,4,16,The Woods,Modern Girl,sleater-kinney, Indie Rock,5,13
+826,3,16,Bandwagonesque,What You Do To Me,teenage fanclub, Alternative Rock,6,13
+827,1,16,Heartworms,Name For You,the shins, Indie Rock,0,2
+828,3,16,I See You,Say Something Loving,the xx, Indie Pop,0,12
+829,1,16,Wild Horses,Wild Horses - Acoustic,bishop briggs, Indie Pop,8,10
+830,2,16,MY WOMAN,Never Be Mine,angel olsen, Indie Folk,8,0
+831,4,16,MY WOMAN,Give It Up,angel olsen, Indie Folk,8,0
+832,3,16,✝✝✝ (Crosses),Prurient,✝✝✝ (crosses), Alternative Metal,6,13
+833,4,16,Conscious,Free,broods, Synth-pop,2,12
+834,1,16,Life Without Sound,Enter Entirely,cloud nothings, Indie Rock,8,10
+835,2,16,WALLS,Over,kings of leon, Alternative Rock,4,10
+836,2,16,"All Killer, No Filler",In Too Deep,sum 41, Pop Punk,0,2
+837,2,16,Adolescents,Amoeba,adolescents, Punk Rock,2,2
+838,3,16,I Give You Power,I Give You Power,arcade fire, Indie Rock,8,0
+839,3,16,WALLS,Conversation Piece,kings of leon, Alternative Rock,4,8
+840,3,16,Migration,Break Apart,bonobo, Electronic,9,0
+841,2,16,The Search for Everything,Love on the Weekend,john mayer, Blues Rock,4,10
+842,3,16,Magic Potion,Black Door,the black keys, Blues Rock,6,13
+843,1,16,Prisoner,To Be Without You,ryan adams, Alternative Country,6,10
+844,2,16,Love Gloom,Breaking Free,night riots, Alternative Rock,6,10
+845,4,16,Love Gloom,All For You,night riots, Alternative Rock,6,13
+846,3,16,You In Reverse,Liar,built to spill, Indie Rock,8,0
+847,4,16,Nobody Wants To Be Here & Nobody Wants To Leave,There's A Girl In The Corner,the twilight sad, Indie Rock,0,12
+848,1,16,The Electric Man,Mexican Jackpot,flagship, Indie Rock,1,2
+849,2,16,The Front Bottoms,Flashlight,the front bottoms, Indie Rock,0,2
+850,1,16,Without You I'm Nothing,You Don't Care About Us,placebo, Alternative Rock,6,10
+851,3,16,MTV Unplugged,Where Is My Mind? - MTV Unplugged,placebo, Alternative Rock,6,13
+852,2,16,99.9%,WEIGHT OFF,kaytranada, Electronic,4,10
+853,3,16,"A Mark, A Mission, A Brand, A Scar",Hands Down,dashboard confessional, Emo/Alternative Rock,9,0
+854,2,16,Third Eye Blind,Good For You,third eye blind, Alternative Rock,6,10
+855,4,16,You Know Who You Are,Friend Hospital,nada surf, Indie Rock/Alternative Rock,5,13
+856,1,16,Loveless,Only Shallow,my bloody valentine, Shoegaze/Alternative Rock,7,10
+857,1,16,London Calling,Lost in the Supermarket,the clash, Punk Rock,3,2
+858,3,16,landmark,way it goes,hippo campus, Indie Pop/Indie Rock,1,8
+859,4,16,All At Once,Changing,the airborne toxic event, Indie Rock/Alternative Rock,0,12
+860,4,16,All At Once,All I Ever Wanted,the airborne toxic event, Indie Rock/Alternative Rock,0,12
+861,4,16,Blossom,Ego,milky chance, Folk,5,13
+862,1,16,The Beyond / Where the Giants Roam,Them Changes,thundercat, Funk/Soul,0,2
+863,4,16,Drunk,Friend Zone,thundercat, Funk/Soul,0,12
+864,3,16,Origami,My Fault,vinyl theatre, Alternative Rock,6,13
+865,3,16,Blackstar,Girl Loves Me,david bowie, Rock/Pop,2,8
+866,1,16,Antics,Slow Hands,interpol, Post-Punk/Indie Rock,1,2
+867,4,16,In Mind,Darling,real estate, Indie Rock/Alternative Rock,5,13
+868,2,16,II,So Good At Being in Trouble,unknown mortal orchestra, Psychedelic Rock/Indie Rock,3,2
+869,4,16,Melodrama,Green Light,lorde, Pop/Electropop,1,12
+870,2,16,Finding Forever,Drivin' Me Wild,common, Hip Hop/Conscious Rap,8,0
+871,3,16,Ga Ga Ga Ga Ga,You Got Yr Cherry Bomb,spoon, Indie rock,0,12
+872,3,16,Turn On The Bright Lights: The Tenth Anniversary Edition (Remastered),NYC,interpol, Post-Punk/Indie Rock,1,8
+873,2,16,Singles,Ceremony - 2015 Remastered Version,new order, Synthpop/Post-Punk,7,10
+874,3,16,Lust For Life,Love,lana del rey, Dream Pop/Indie Pop,4,8
+875,3,16,Third of May / Ōdaigahara (Edit),Third of May / Ōdaigahara - Edit,fleet foxes, Indie Folk/Folk Rock,1,8
+876,1,16,Back To Black,You Know I'm No Good,amy winehouse, Soul/R&B,2,2
+877,1,16,Kicker,Sweet Ophelia,zella day, Indie Pop,0,2
+878,2,16,DREAMCAR,Kill for Candy,dreamcar, New Wave/Alternative Rock,1,2
+879,3,16,Phase,The Love You're Given,jack garratt, Electronic/Pop,4,8
+880,1,16,Sing The Sorrow,Girl's Not Grey,afi, Punk Rock/Alternative Rock,2,2
+881,2,16,Pleasure,Pleasure,feist, Indie Pop,1,2
+882,1,16,You Forgot It In People,Lover's Spit,broken social scene, Indie Rock/Alternative Rock,8,10
+883,3,16,Blonde,Ivy,frank ocean, R&B/Alternative R&B,2,8
+884,3,16,Blossom,Cold Blue Rain - Acoustic Version,milky chance, Folk,5,13
+885,4,16,Seven Swans,To Be Alone With You,sufjan stevens, Indie folk,0,12
+886,4,16,Songs of God and Whiskey,A Certain Type of Girl,the airborne toxic event, Indie Rock/Alternative Rock,0,12
+887,5,16,All At Once,The Graveyard Near The House,the airborne toxic event, Indie Rock/Alternative Rock,0,12
+888,2,16,X-Communicate,Show Me,kristin kontrol, Synthpop/Indie Pop,7,10
+889,4,16,Post Pop Depression,Sunday,iggy pop, Punk Rock/Garage Rock,7,13
+890,2,16,Matter of Choice,Crowds,cold showers, Post-Punk/Shoegaze,8,0
+891,3,16,To the Valley,I Want to Know (Your Love),palmas, Indie Rock/Alternative Rock,5,13
+892,4,16,Tired Hearts EP,Over You Again,the dig, Indie Rock/Alternative Rock,0,12
+893,3,16,Totale Nite,Anxiety's Door,merchandise, Post-Punk/Indie Rock,5,13
+894,2,16,Three,Answer,phantogram, Electronic,6,10
+895,1,16,In Mind,Stained Glass,real estate, Indie Rock/Alternative Rock,5,10
+896,2,16,You In Reverse,Goin’ Against Your Mind,built to spill, Indie Rock,8,0
+897,1,16,27,Pentacle 13,kwesi foraes, R&B/Soul,7,10
+898,1,16,Helplessness Blues,Helplessness Blues,fleet foxes, Indie Folk/Folk Rock,1,2
+899,4,16,"Home, Vol. 5",You Remind Me of Home,benjamin gibbard, Indie Rock/Alternative Rock,8,0
+900,3,16,Hot Thoughts,Hot Thoughts,spoon, Indie rock,0,12
+901,2,16,BBC Radio Sessions,Sleazy Bed Track - BBC Evening Session 1998,the bluetones, Britpop/Indie Rock,6,10
+902,2,16,Light Upon the Lake,No Woman,whitney, Indie Rock/Alternative Rock,0,2
+903,2,16,Modern Vampires of the City,Obvious Bicycle,vampire weekend, Indie pop,0,2
+904,1,16,Vampire Weekend,Cape Cod Kwassa Kwassa,vampire weekend, Indie pop,0,2
+905,1,16,RELAXER,In Cold Blood,alt-j, Indie Rock,8,10
+906,3,16,Pain Is Beauty,Feral Love,chelsea wolfe, Folk/Experimental Rock,9,0
+907,2,16,Unknown Rooms: A Collection of Acoustic Songs,The Way We Used To,chelsea wolfe, Folk/Experimental Rock,9,0
+908,2,16,Absent Forever,Falling Off,plastic flowers, Dream Pop/Shoegaze,6,10
+909,2,16,Everybody Works,1 Billion Dogs,jay som, Indie Rock/Bedroom Pop,1,2
+910,1,16,Trouble Will Find Me,This Is The Last Time,the national, Indie Rock/Alternative Rock,0,2
+911,3,16,High/Low,Popular,nada surf, Indie Rock/Alternative Rock,5,13
+912,2,16,Reach For The Sun,Where I Want To Be,the dangerous summer, Emo/Alternative Rock,6,10
+913,1,16,California (Deluxe Edition),Misery,blink-182,Pop punk,2,2
+914,3,16,Hug Of Thunder,Halfway Home,broken social scene, Indie Rock/Alternative Rock,8,0
+915,1,16,A Moon Shaped Pool,True Love Waits,radiohead, Alternative Rock/Experimental Rock,6,10
+916,2,16,Light Upon the Lake,No Matter Where We Go,whitney, Indie Rock/Alternative Rock,0,2
+917,2,16,You've Got a Woman / Gonna Hurry (As Slow as I Can),You’ve Got a Woman,whitney, Indie Rock/Alternative Rock,0,2
+918,2,16,Teens Of Denial,Drunk Drivers/Killer Whales,car seat headrest, Indie Rock/Lo-fi,8,0
+919,4,16,Allah-Las,Catamaran,allah-las, Psychedelic Rock/Surf Rock,8,0
+920,1,16,Worship The Sun,Every Girl - Bonus Track,allah-las, Psychedelic Rock/Surf Rock,8,10
+921,4,16,Allah-Las,Don't You Forget It,allah-las, Psychedelic Rock/Surf Rock,8,0
+922,1,16,Oshin,Doused,diiv, Shoegaze,2,2
+923,2,16,Songs For The Deaf,Gonna Leave You,queens of the stone age, Rock,3,2
+924,2,16,Weezer,Undone - The Sweater Song,weezer, Alternative rock,6,10
+925,2,16,Harry Styles,Sign of the Times,harry styles, Pop/Rock,1,2
+926,3,17,Hozier,Jackie And Wilson,hozier, Indie Rock/Folk,1,8
+927,3,17,Good Things,I Need a Dollar,aloe blacc, Soul/R&B,2,8
+928,1,17,Lift Your Spirit,Wake Me Up - Acoustic,aloe blacc, Soul/R&B,2,2
+929,3,17,Love In The Future,All of Me,john legend, R&B/Soul,7,0
+930,1,17,G I R L,"Happy - From ""Despicable Me 2""",pharrell williams, R&B/Funk,3,2
+931,1,17,The 20/20 Experience (Deluxe Version),Mirrors,justin timberlake,Pop,7,10
+932,2,17,Unorthodox Jukebox,Locked Out Of Heaven,bruno mars, Pop,8,0
+933,3,17,Uptown Special,Uptown Funk,mark ronson, Pop/Funk,5,13
+934,3,17,TALKING IS HARD,Shut Up and Dance,walk the moon, Indie Rock,0,12
+935,2,17,Spark Seeker,Live Like A Warrior,matisyahu, Reggae,7,10
+936,2,17,I Cry When I Laugh,Hold My Hand,jess glynne, Pop,1,2
+937,4,17,New Eyes,Stronger,clean bandit, Electronic,9,0
+938,3,17,Stay With Me,Stay With Me - Acoustic Version,you me at six, Alternative Rock,6,0
+939,2,17,Title,Lips Are Movin,meghan trainor, Pop,5,10
+940,3,17,Black Star Elephant,Am I Wrong,nico & vinz, Pop/R&B,5,13
+941,2,17,Title,All About That Bass,meghan trainor, Pop,5,10
+942,1,17,Playlist: The Very Best Of Matisyahu,One Day - New Album Version,matisyahu, Reggae,7,10
+943,2,17,True,Wake Me Up - Radio Edit,avicii, Electronic/Dance,9,0
+944,1,17,The Deep End,Laugh (feat. Matisyahu),itch, Hip Hop/Rap,1,2
+945,3,17,Wanted On Voyage,Budapest,george ezra, Folk/Indie,1,8
+946,5,17,Smoke + Mirrors,I Bet My Life,imagine dragons, Alternative Rock,4,13
+947,4,17,Night Visions,On Top Of The World,imagine dragons, Alternative Rock,4,13
+948,5,17,Night Visions,Nothing Left To Say / Rocks - Medley,imagine dragons, Alternative Rock,4,13
+949,4,17,Night Visions,Tiptoe,imagine dragons, Alternative Rock,4,13
+950,4,17,Native,Counting Stars,onerepublic, Pop/Rock,5,13
+951,4,17,Magazines Or Novels,"Honey, I'm Good.",andy grammer, Pop,8,0
+952,3,17,21,Rolling in the Deep,adele, Soul/Pop,2,8
+953,2,17,21,Rumour Has It,adele, Soul/Pop,2,2
+954,1,17,Bad Blood,Pompeii,bastille, Indie Rock/Pop,8,10
+955,3,17,"Too Weird To Live, Too Rare To Die!",This Is Gospel,panic! at the disco, Pop Rock/Alternative,5,13
+956,2,17,+,Lego House,ed sheeran,Pop,2,2
+957,3,17,x,Sing,ed sheeran,Pop,2,8
+958,4,17,Strange Desire,I Wanna Get Better,bleachers, Indie Pop,8,0
+959,3,17,Strange Desire,Rollercoaster,bleachers, Indie Pop,8,0
+960,4,17,A Way To See In The Dark,Remind Me Who I Am,jason gray, Contemporary Christian,4,13
+961,1,17,Heart On My Sleeve,Secrets,mary lambert, Pop/Soul,5,10
+962,3,17,Bombs Away,Geronimo,sheppard, Indie Pop,5,13
+963,3,17,Save Rock And Roll,Young Volcanoes,fall out boy, Pop Punk/Alternative Rock,1,8
+964,2,17,Wilder Mind,Believe,mumford & sons, Folk Rock,5,10
+965,1,17,Warrior (Deluxe Version),Die Young - Deconstructed Mix,kesha,Pop,7,10
+966,3,17,The Madding Crowd,Absolutely (Story of a Girl) - Radio Mix,nine days, Alternative Rock,6,0
+967,3,17,All Things Bright And Beautiful,Galaxies,owl city, Synth-pop/Electronic,3,8
+968,3,17,Unorthodox Jukebox,Treasure,bruno mars, Pop,8,0
+969,2,17,"Punk Goes Pop, Vol. 4",Super Bass,the downtown fiction, Pop Rock,0,2
+970,4,17,Reflection,Sledgehammer,fifth harmony, Pop/R&B,1,12
+971,2,17,Picture Show,Everybody Talks,neon trees, Alternative Rock,6,10
+972,1,17,Habits,1983,neon trees, Alternative Rock,6,10
+973,3,17,TALKING IS HARD,Avalanche,walk the moon, Indie Rock,0,12
+974,2,17,TALKING IS HARD,Work This Body,walk the moon, Indie Rock,0,2
+975,2,17,Walk The Moon,Anna Sun,walk the moon, Indie Rock,0,2
+976,2,17,Tourist History,Something Good Can Work,two door cinema club, Indie Rock,0,2
+977,4,17,Language & Perspective,Cardiac Arrest,bad suns, Indie Rock/Alternative,8,0
+978,4,17,Day & Age,Human,the killers,Indie rock,3,13
+979,2,17,Daydreams,Something Better,audien, Electronic/Dance,9,0
+980,1,17,Permission To Land,I Believe In A Thing Called Love,the darkness, Hard Rock/Glam Rock,0,2
+981,2,17,Super Hits,And We Danced,the hooters, Rock,3,2
+982,4,17,Please Please Me,Twist And Shout - Remastered 2009,the beatles, Rock,3,13
+983,2,17,Inanimate Objects,Molecules,atlas genius, Indie Rock/Pop,8,0
+984,1,17,Hello,Hello - Single Edit,martin solveig, Electronic/Dance,4,10
+985,1,17,DNCE,Cake By The Ocean,dnce, Pop,1,2
+986,3,17,Distraction,Giants,bear hands, Indie Rock,8,0
+987,2,17,The White Album (Remix Project),Relentless - Young & Free Remix,hillsong united, Contemporary Christian/Worship,4,10
+988,3,17,Goldrushed,On Our Way,the royal concept, Indie Pop/Rock,0,12
+989,2,17,Coming Your Way,Coming Your Way,beach avenue, Pop/Rock,8,0
+990,3,17,Alpha,Collide (feat. Jonathan Thulin),built by titan, Electronic/Pop,9,0
+991,4,17,Come Alive,Come Alive,astoria kings, Alternative Rock,9,0
+992,1,17,Best of the Year Medleys: 2007 - 2012,Best of 2012: Payphone / Call Me Maybe / Wide Awake / Starships / We Are Young,anthem lights, Pop/Rock,8,10
+993,4,17,Southern Air,Always Summer,yellowcard, Pop Punk/Alternative Rock,0,12
+994,3,17,This World Is Yours,This World Is Yours,adam martin, Pop,8,0
+995,1,17,When The World Comes Down,Gives You Hell,the all-american rejects,Pop rock,3,2
+996,2,17,Last Of The Great Pretenders,Kinks Shirt,matt nathanson, Pop Rock,5,10
+997,2,17,Un Día de Sol,Un Día de Sol,los claxons, Pop/Rock,1,2
+998,3,18,Gravity,Run Away with You,big & rich, Country,9,0
+999,3,18,Clear As Day,I Love You This Big,scotty mccreery, Country,6,0
+1000,3,18,Yours,Yours,russell dickerson, Country,6,0

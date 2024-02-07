@@ -1,0 +1,11 @@
+numpy
+pandas
+seaborn
+streamlit
+plotly
+matplotlib
+scikit-learn
+scipy
+google-api-python-client
+oauth2client
+river
