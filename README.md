@@ -31,4 +31,4 @@ streamlit run music_recommend.py
 - [Aman Poddar]
 - [Soham Pandit](https://github.com/Scav6411)
 - [Harshvardhan]
-- [Sai Sashank]
+- [Sai Sashank](https://github.com/sashank102)
